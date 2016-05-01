@@ -4,7 +4,7 @@ An ideas (motivations or goals) system to replace the default Dungeon World alig
 How to use this project
 -----------------------
 
-1. Print out the the updated player sheets (this updates the alignment section of the character sheets and the cleric spell "Detect Alignment".
+1. Print out the the updated player sheets (this updates the alignment section of the character sheets and the cleric spell "Detect Alignment").
 2. Print out the list of ideals.  Feel free to remove ideals you don't like from the list, or add ones you think are missing.
   
 Character creation
