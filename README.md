@@ -26,4 +26,5 @@ Design principles
  - There is some room for variability in the difficulty of the ideals, some ideals will be tougher or easier, and this
  difficulty will be partially effected by the player's class.
 
-Contributions are welcome.
+Contributions are welcome
+-------------------------
